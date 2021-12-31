@@ -1,0 +1,171 @@
+#fi
+{
+
+    width: 45%;
+    height: 74px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 8%;
+   
+    border-right-color: #89141B;
+    border-right-width: 12px;
+    border-top-color: #F2AEB0;
+border-top-width: 21px;
+border-left-color: #F2AEB0;
+border-left-width: 19px;
+border-bottom-color: #89141B;
+border-bottom-width: 12px;
+    
+
+
+    ;}
+
+#tro
+{
+
+
+}
+ 
+ 
+  #firstinp,#lastinp,#password
+  {
+    height: 43px;
+width: 98%;
+border-top: black 10px;
+border-top-style: groove;
+border-top-width: revert;
+
+
+ }
+ 
+ #first,#last,#pass
+  {
+    height: 43px;
+width: 48%;
+border-top-style: groove;
+border-top-width: unset;
+border-left-style: groove;
+border-left-width: unset;
+
+ }
+
+ #gen
+ {
+    height: 88px;
+    width: 48%;
+    text-align: center;
+    font-size: 25px;
+    border-top-style: groove;
+    border-top-width: unset;
+    border-left-style: groove;
+    border-left-width: unset;
+
+}
+#gendertype
+{
+    border-top-style: groove;
+    border-top-width: unset;
+    border-left-style: groove;
+    border-left-width: unset;
+}
+#male,#female
+{
+font-size: 20px;
+
+
+}
+#birth
+{
+    
+    height: 42px;
+width: 50%;
+border-top-style: groove;
+border-top-width: unset;
+border-left-style: groove;
+border-left-width: unset;
+
+}
+#birthtext
+{
+    font-size: 25px;
+   
+
+}
+#dateid
+{
+    border-top-style: groove;
+    border-top-width: unset;
+    border-left-style: groove;
+    border-left-width: unset;   
+}
+
+#dateoptions
+{
+    height: 44px;
+width: 59%;
+
+    border-top-style: groove;
+border-top-width: revert;
+}
+#dd,#yy
+{
+    height: 64px;
+width: 20%;
+
+
+
+}
+
+#intes
+{
+    height: 63px;
+    width: 17%;
+    text-align: center;
+    font-size: 45px;
+    border-top-style: groove;
+border-top-width: unset;
+border-left-style: groove;
+border-left-width: unset;
+}
+#mus,#c,#fm,#sp
+{
+    height: 41px;
+width: 50%;
+border-top-style: groove;
+border-top-width: unset;
+border-left-style: groove;
+border-left-width: unset;
+
+}
+#book,#fash,#fm
+{
+    border-top-style: groove;
+border-top-width: unset;
+border-left-style: groove;
+border-left-width: unset;
+}
+
+#submit
+{
+    height: 51px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    border-top-style: groove;
+    border-top-width: unset;
+    border-left-style: groove;
+    border-left-width: unset;
+
+}
+#sub
+{
+    display: block;
+margin-right: auto;
+margin-left: auto;
+height: 32px;
+width: 16%;
+
+
+    
+
+}

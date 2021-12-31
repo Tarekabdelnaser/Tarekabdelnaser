@@ -1,0 +1,53 @@
+h1,h2,h3
+{
+text-align: center;
+}
+
+#conten
+{
+
+font-size: 30px;
+
+}
+
+#listfour
+{
+    font-family: Arial;
+    
+}
+
+
+
+#listsix
+{
+    font-family: Arial;
+    
+    color:red;
+    
+    
+}
+
+#imgsrc
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+#top
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:10%;
+}
+
+#next
+{
+
+     float: right;
+margin-top: -1%;
+
+}
